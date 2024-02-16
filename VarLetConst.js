@@ -8,7 +8,7 @@ console.log(c);
 
 a = 200;
 b = 100;
-// c = 300;  Erro, é uma constante
+// c = 300;  Daria erro, é uma constante (não pode ser realterada).
 
 console.log(a);
 console.log(b);

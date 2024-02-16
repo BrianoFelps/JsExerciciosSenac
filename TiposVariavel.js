@@ -10,8 +10,9 @@ var produto = {
     ID: 1
 }
 
-// Asy dags sajkd lziao ayaya 
+
 
 console.log(valorString, valorNumInt, valorNumFloat, valorBoolean * valorBoolean, listaValoresNum [3], listaValoresString, produto.Nome);
 
 console.log(typeof valorString, typeof valorNumInt, typeof valorNumFloat, valorBoolean * valorBoolean, typeof listaValoresNum, typeof listaValoresString, typeof produto);
+//Identifique esse console log para obter os tipos das variáveis.
